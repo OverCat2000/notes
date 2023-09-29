@@ -47,7 +47,7 @@ time complexity: O(N)
 root is added to the queue
 	its left right nodes were added to the queue
 		root was removed
-			
+next in queue is taken as root
 
 
 
