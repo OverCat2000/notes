@@ -25,3 +25,6 @@ if not full
 
 ## dequeue
 
+if no empty
+	
+
