@@ -30,7 +30,11 @@ traverse right subtree
 
 ## postorder traversal
 
-traverse left sub
+traverse left subtree
+traverse right  subtree
+visit root
+
+
 
 
 
