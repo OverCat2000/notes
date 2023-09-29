@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a786da1440d63c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/Stacks.md",
+                "file": "Data Structure/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/Stacks.md",
+                "file": "Data Structure/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/Stacks.md"
+                "file": "Data Structure/Binary Search Tree.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ee9857fbfe5ddf3",
+  "active": "a786da1440d63c85",
   "lastOpenFiles": [
-    "Data Structure/Queue.md",
     "Data Structure/Stacks.md",
+    "Data Structure/Binary Search Tree.md",
+    "Data Structure/Queue.md",
     "Data Structure"
   ]
 }
