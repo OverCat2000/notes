@@ -44,7 +44,10 @@ time complexity: O(N)
 
 ## level order traversal
 
-
+root is added to the queue
+	its left right nodes were added to the queue
+		root was removed
+			
 
 
 
