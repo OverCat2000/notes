@@ -15,6 +15,8 @@ this.right = null;
 }
 ```
 
+## inorder traversal
+
 
 
 
