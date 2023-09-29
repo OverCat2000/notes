@@ -32,9 +32,10 @@ if not empty
 	front value is set to 0
 	**in the special case occur when only one element is added
 	front = rear = 0
-	and the case when last element is avaialble
+	and the case when last element is available
 	front = rear = end**
 	front and rear is set to default value -1
 	otherwise front is increased
 	when front reaches end (when empty)
 		front is set to 0
+
