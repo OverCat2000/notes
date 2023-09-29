@@ -22,17 +22,47 @@ traverse left subtree
 visit root
 traverse right subtree
 
+time complexity: O(N)
+
 ## preorder traversal
 
 visit root
 traverse left subtree
 traverse right subtree
 
+good for copying tree.
+time complexity: O(N)
+
 ## postorder traversal
 
 traverse left subtree
 traverse right  subtree
 visit root
+
+good for deleting tree.
+time complexity: O(N)
+
+## level order traversal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

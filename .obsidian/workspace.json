@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/Stacks.md",
+                "file": "Data Structure/Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,12 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ee9857fbfe5ddf3",
+  "active": "a786da1440d63c85",
   "lastOpenFiles": [
     "Data Structure/Queue.md",
-    "Data Structure/Untitled.md",
-    "Data Structure/Binary Search Tree.md",
     "Data Structure/Stacks.md",
+    "Data Structure/Binary Search Tree.md",
+    "Data Structure/Untitled.md",
     "Data Structure"
   ]
 }
