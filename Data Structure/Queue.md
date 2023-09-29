@@ -44,4 +44,5 @@ if not empty
 
 true if rear = front = -1
 
-## 
+## isFull
+
