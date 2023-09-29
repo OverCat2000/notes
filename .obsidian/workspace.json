@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/Untitled.md",
+                "file": "Data Structure/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/Untitled.md",
+                "file": "Data Structure/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/Untitled.md",
+                "file": "Data Structure/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/Untitled.md"
+                "file": "Data Structure/Binary Search Tree.md"
               }
             }
           }
@@ -161,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a786da1440d63c85",
+  "active": "7ee9857fbfe5ddf3",
   "lastOpenFiles": [
     "Data Structure/Queue.md",
     "Data Structure/Untitled.md",
