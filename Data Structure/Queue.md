@@ -39,3 +39,9 @@ if not empty
 	when front reaches end (when empty)
 		front is set to 0
 
+
+## isEmpty
+
+true if rear = front = -1
+
+## 
