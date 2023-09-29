@@ -46,3 +46,10 @@ true if rear = front = -1
 
 ## isFull
 
+|x|x|r|f|x|x|
+------------------
+if rear + 1 = front
+|f|x|x|x|x|r|
+---
+
+
