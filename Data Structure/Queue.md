@@ -18,7 +18,8 @@ if not full
 	only rear is changed
 	rear is at last added element
 	rear is increased and new element added
-	
+	if full
+		rear is set to 0 
 	if front = -1
 		then changed to 0
 	
