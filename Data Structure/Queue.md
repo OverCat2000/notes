@@ -31,7 +31,8 @@ if not empty
 	front value is stored in temp
 	front value is set to 0
 	**in the special case occur when only one element is added
-	front = rear = 0**
+	front = rear = 0
+	and the case when last element **
 	front and rear is set to default value -1
 	otherwise front is increased
 	when front reaches end (when empty)
