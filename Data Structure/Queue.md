@@ -20,7 +20,8 @@ if not full
 	rear is increased and new element added
 	if full
 		rear is set to 0 
-	if front = -1
+	at start if front = -1
 		then changed to 0
-	
-	
+
+## dequeue
+
