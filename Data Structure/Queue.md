@@ -15,8 +15,8 @@ this.rear = -1;
 ## enqueue
 
 only rear is changed
+rear is at last added element
 if not full
-	rear is at last added element
 	rear is increased and new element added
 	when rear goes to end (when full)
 		rear is set to 0 
@@ -26,6 +26,7 @@ if not full
 ## dequeue
 
 only front is changed
+front is always at first added element
 if not empty
 	front value is stored in temp
 	front value is set to 0
