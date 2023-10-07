@@ -31,5 +31,17 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-completr:completr-select-previous-suggestion": [
+    {
+      "key": "ArrowUp",
+      "modifiers": []
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
   ]
 }

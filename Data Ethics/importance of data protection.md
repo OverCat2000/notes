@@ -41,7 +41,8 @@ GDPR protection principles.
 
 it establishes obligations for businesses and provide **rights** for citizen.
 
-inform citizen and customers of your activities in a a transparent 
+inform citizen and customers of your activities in a a transparent manner. data subjects are aware of processing of data. 
+	privacy notices/ privacy polic
 
 
 
