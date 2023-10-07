@@ -58,7 +58,22 @@ automated data cleaning process
 
 #### <span style="color:#ff0000">flawed data masking measures</span>
 
-data masking polices to distinguish data that identifies the customers 
+data masking polices to distinguish data that identifies the customers from confidential information about them.
+
+a key solutions is data encryption. but it takes time to implement.
+
+data scrambling
+	data are randomly reorganized and replaced
+
+data substitution 
+	fake data replaces real data
+
+also the data masking algorithms should also be kept secure.
+
+
+#### fake data generation
+
+
 
 
 
