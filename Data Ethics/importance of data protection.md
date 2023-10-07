@@ -6,10 +6,10 @@ it is important because of the **increased** usage of ==computers== and ==comput
 
 ## General Data Protection Regulation (GDPR) 
 
-a regulations drafted by **EU**. all EU members must follow these rules.
-its sets out rules for data protection and privacy for all individuals within the EU. how physical or legal person may process personal data.
+<span style="color:#00b050"><span style="color:#00b050">a regulations drafted by **EU**. all EU members must follow these rules.
+its sets out rules for data protection and privacy for all individuals within the EU. how physical or legal person may process personal data.</span></span>
 
-the purpose of the regulations is to create a uniform and harmonised level of protection for personal data. remove restrains of free movement of personal data.
+<span style="color:#92d050">the purpose of the regulations is to create a uniform and harmonised level of protection for personal data. remove restrains of free movement of personal data.</span>
 
 27$^t$$^h$ of April 2016
 protection of natural persons
