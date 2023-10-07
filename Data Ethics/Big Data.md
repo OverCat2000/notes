@@ -41,5 +41,15 @@ Informatica
 	customer data
 
 
+#### network perimeter insecurity
+
+zero trust architecture solutions
+
+#### social engineering attacks
+
+gateways are useful for identifying bad links
+sandbox
+
+Data cleaning problems
 
 
