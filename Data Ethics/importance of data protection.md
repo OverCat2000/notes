@@ -39,7 +39,8 @@ GDPR protection principles.
 
 ## Summary of GDPR
 
-it establishes obligations for businesses 
+it establishes obligations for businesses and provide **rights** for citizen.
+
 
 
 
