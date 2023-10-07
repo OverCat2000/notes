@@ -15,7 +15,8 @@ big data are kind of data set that are too large and complex to be processed in 
 advanced analytic tool
 	predictive analytics
 	data mining
-extract value from data and generate insight for buisness
+extract value from data and generate insight for business
+
 
 
 
