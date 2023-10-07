@@ -53,6 +53,14 @@ data subject's rights under GDPR
 	to have its data exported
 	restrict certain use cases of its personal data
 
+regulate responsibility between buyer (controller) and supplier (processor).
+	controller is the organization that hires other companies to process data on behalf on them.
+	the hired company will be the processor
+this business relationship is built on DPA (Data processing agreement).
+	DPA sets out rules how the processor will use personal data to fulfil their purpose.
+
+maintaining a a data inventory. processors and controller must keep a record of information on the use of data. there are rule specified for this in GDPR.
+
 
 
 
