@@ -11,10 +11,11 @@ its sets out rules for data protection and privacy for all individuals within th
 
 <span style="color:#92d050">the purpose of the regulations is to create a uniform and harmonised level of protection for personal data. remove restrains of free movement of personal data.</span>
 
-27$^t$$^h$ of April 2016
+<span style="color:#97ccf2">27$^t$$^h$ of April 2016
 protection of natural persons
 regard to processing personal data
 free movement of of such data
+</span>
 
 GDPR protection principles.
 	1. Lawfulness, fairness and transparency.
@@ -35,6 +36,8 @@ GDPR protection principles.
 	1. Accountability.
 		taking responsibility for data processing. being accountable for rules under GDPR.
 		and being able to document it.
+
+
 
 
 
