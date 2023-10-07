@@ -61,7 +61,7 @@ this business relationship is built on DPA (Data processing agreement).
 
 maintaining a a data inventory. processors and controller must keep a record of information on the use of data. there are rule specified for this in GDPR.
 
-
+setup processes to manage personal data breach within 72 hours. steps should be taken to minimize risk 
 
 
 
