@@ -19,13 +19,23 @@ free movement of of such data
 GDPR protection principles.
 	1. Lawfulness, fairness and transparency.
 		gathering data and processing it with legal basis. getting consent from the user is the most common way of obtaining legal basis.
-		proces
+		processing of personal data is in the best interest of the 
+		communication between data processor and data subject.
 	1. Purpose limitation.
+		personal data should be only used for the original purpose.
 	2. Data minimization. 
+		prevent hoarding unused data. gather exact amount needed for the purpose.
 	3. Accuracy.
+		having correct up to data data for the processing. 
 	4. Storage limitation.
+		deleting personal data when they are not needed anymore. implementing a process to destroy data that is no longer needed is a secure way to remove data from the system.
 	5. Integrity and confidentiality.
-	6. Accountability.
+		personal data is correct and cannot be manipulate.
+		only processors have access to the personal data.
+	1. Accountability.
+		taking responsibility for data processing. being accountable for rules under GDPR.
+		and being able to document it.
+
 
 
 
