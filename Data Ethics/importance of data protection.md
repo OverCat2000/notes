@@ -61,7 +61,13 @@ this business relationship is built on DPA (Data processing agreement).
 
 maintaining a a data inventory. processors and controller must keep a record of information on the use of data. there are rule specified for this in GDPR.
 
-setup processes to manage personal data breach within 72 hours. steps should be taken to minimize risk 
+setup processes to manage personal data breach within 72 hours. steps should be taken to minimize risk. alert authority and the individuals who belongs the data.
+	a data beach could be loss, destruction, unauthorized access to data.
+
+**Data protection impact assessment** (DPIA)
+	if intended use of personal data is considered risky, with regard to the sensitivity of the data. the process should be reviewed and assess the impact it may have on data subject.
+
+
 
 
 
