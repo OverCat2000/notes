@@ -18,6 +18,13 @@ advanced analytic tool
 extract value from data and generate insight for business
 
 
+#### Analytics as a service
+
+big data analytics is not difficult for organizations that wish to store and analyze data on premise.
+AaaS model is the solution for this, which enable organizations to carry out analytics via clod base subscription service. avoids high costs associated with on site storing and processing
+
+#### consumption
+
 
 
 
