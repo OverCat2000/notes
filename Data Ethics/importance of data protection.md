@@ -18,7 +18,8 @@ free movement of of such data
 
 GDPR protection principles.
 	1. Lawfulness, fairness and transparency.
-		gathering data and processing it with legal basis. gett
+		gathering data and processing it with legal basis. getting consent from the user is the most common way of obtaining legal basis.
+		proces
 	1. Purpose limitation.
 	2. Data minimization. 
 	3. Accuracy.
