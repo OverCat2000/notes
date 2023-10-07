@@ -6,7 +6,8 @@
 ## Exabyte.
 
 an exabyte is a large unit of computer data storage.
-2x10
+exa  = 2x10$^6$$^0$ 
+
 
 
 
