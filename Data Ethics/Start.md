@@ -6,7 +6,12 @@
 ## Exabyte.
 
 an exabyte is a large unit of computer data storage.
-exa  = 2x10$^6$$^0$ 
+exa  = 2x10$^6$$^0$
+
+## Characteristics of ethical data use.
+
+1. preserves **data security** and protects **customer information**.
+2. 
 
 
 
