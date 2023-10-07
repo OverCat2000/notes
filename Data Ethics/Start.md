@@ -20,7 +20,17 @@ exa  = 2x10$^6$$^0$
 3. it offers customer some measure of **support**.
 4. agrees with promises made by the companies.
 
+## personal data and data subject
+
 >determining the utilization of personal data is challenging since it does not exist in isolation and one's personal data overlaps with others or with a group.
+
+>personal data should be processed with legitimate consent from the data subject.
+
+data subject should know
+	purpose of using data.
+	how data is going to be used for achieving said purpose.
+
+
 
 
 
