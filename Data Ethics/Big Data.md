@@ -58,7 +58,7 @@ automated data cleaning process
 
 #### <span style="color:#ff0000">flawed data masking measures</span>
 
-
+data masking polices to distinguish data that identifies the customers 
 
 
 
