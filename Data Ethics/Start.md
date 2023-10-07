@@ -18,7 +18,11 @@ exa  = 2x10$^6$$^0$
 			prevent data being compromised.
 2. offers benefit to both parties.
 3. it offers customer some measure of **support**.
-4. agrees with promises made by the companie.
+4. agrees with promises made by the companies.
+
+>determining the utilization of personal data is challenging since it does not exist in isolation and one's personal data overlaps with others or with a group.
+
+
 
 
 
