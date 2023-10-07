@@ -25,6 +25,18 @@ AaaS model is the solution for this, which enable organizations to carry out ana
 
 #### consumption
 
+#### major players in big data analytics
+
+oracle
+Microsoft
+SAP
+	advanced predictive analysis software
+IBM
+Informatica
+	analytics data integration and Integrity software
+
+#### big data complexity and collateral security issues
+
 
 
 
