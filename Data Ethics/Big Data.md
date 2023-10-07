@@ -50,6 +50,13 @@ zero trust architecture solutions
 gateways are useful for identifying bad links
 sandbox
 
-Data cleaning problems
+#### Data cleaning problems
+
+automated data cleaning process
+	need to be configured correctly
+
+
+#### flawed data masking measures
+
 
 
