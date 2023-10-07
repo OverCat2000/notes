@@ -37,6 +37,9 @@ Informatica
 
 #### big data complexity and collateral security issues
 
+	corporate data
+	customer data
+
 
 
 

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Ethics/Big Data.md",
+                "file": "Data Ethics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Ethics/Big Data.md",
+                "file": "Data Ethics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Ethics/Big Data.md",
+                "file": "Data Ethics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Ethics/Big Data.md"
+                "file": "Data Ethics/Untitled.md"
               }
             }
           }
@@ -157,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eb069629485b144",
+  "active": "7ee9857fbfe5ddf3",
   "lastOpenFiles": [
-    "Data Ethics/importance of data protection.md",
     "Data Ethics/Big Data.md",
+    "Data Ethics/Untitled.md",
+    "Data Ethics/importance of data protection.md",
     "FrequencyDictionaries/freq_dicts_dirty/small_zh.txt",
     "FrequencyDictionaries/freq_dicts_dirty/small_uk.txt",
     "FrequencyDictionaries/freq_dicts_dirty/small_tr.txt",
