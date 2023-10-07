@@ -32,6 +32,19 @@
       "key": "Q"
     }
   ],
+  "obsidian-completr:completr-open-suggestion-popup": [],
+  "obsidian-completr:completr-select-next-suggestion": [
+    {
+      "key": "ArrowDown",
+      "modifiers": []
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
   "obsidian-completr:completr-select-previous-suggestion": [
     {
       "key": "ArrowUp",
@@ -39,9 +52,10 @@
     },
     {
       "modifiers": [
-        "Alt"
+        "Mod",
+        "Shift"
       ],
-      "key": "K"
+      "key": " "
     }
   ]
 }

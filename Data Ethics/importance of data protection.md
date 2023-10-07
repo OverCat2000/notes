@@ -42,7 +42,18 @@ GDPR protection principles.
 it establishes obligations for businesses and provide **rights** for citizen.
 
 inform citizen and customers of your activities in a a transparent manner. data subjects are aware of processing of data. 
-	privacy notices/ privacy polic
+	privacy notices/ privacy policy adverting on websites
+
+Assign Data protection officer (DPO) to the organization. DPO reports to the responsible data protection authority in the country where the organization is established.
+
+data subject's rights under GDPR
+	right to access personal data data processor holds
+	to have data corrected in case of a an error
+	to have data deleted if certain criteria met
+	to have its data exported
+	restrict certain use cases of its personal data
+
+
 
 
 
