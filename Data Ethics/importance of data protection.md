@@ -37,7 +37,9 @@ GDPR protection principles.
 		taking responsibility for data processing. being accountable for rules under GDPR.
 		and being able to document it.
 
+## Summary of GDPR
 
+it establishes obligations for businesses 
 
 
 
