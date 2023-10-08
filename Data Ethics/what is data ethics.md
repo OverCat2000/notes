@@ -13,4 +13,9 @@
 4. intention
 5. outcomes
 	- inadvertent harm - disparate impact
-	- 
+
+#### ethical use of algorithms
+
+training
+code
+feedback
