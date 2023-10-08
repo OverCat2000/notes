@@ -117,6 +117,14 @@ ensuring security and confidentiality of business data and customers sensitive d
 	continuous monitoring of the system
 
 
+### challenge of big data
+
+Storage
+	challenge to store in legacy systems
+	unstructured data cannot be stored in traditional databases
+
+processing
+	
 
 
 
