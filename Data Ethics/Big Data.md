@@ -124,6 +124,18 @@ Storage
 	unstructured data cannot be stored in traditional databases
 
 processing
+	reading
+	transforming
+	extracting
+	formatting
+
+security
+	data is non-encrypted
+	strict security protocols for access rights
+
+#### finding and fixing data quality issues
+
+correct information in the original database
 	
 
 
