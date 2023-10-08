@@ -90,7 +90,37 @@ implementing multi-layer authentication
 threat detections approach
 
 
-### 
+### major concerns with Big data
+
+complexity of data in terms of 
+	structure
+	source
+	storage location
+	format
+	device type
+	
+storing
+cleaning
+masking
+
+controlling data transformations
+
+
+#### privacy challenges of big data
+
+ensuring security and confidentiality of business data and customers sensitive data are the main concern
+	improve system's cyber attack resiliency
+	configure automated data cleaning 
+	data masking
+	document sanitization
+	establish mandatory authorization for employees
+	continuous monitoring of the system
+
+
+
+
+
+
 
 
 
