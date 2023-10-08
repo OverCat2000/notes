@@ -40,4 +40,3 @@ collecting data
 4. trust and consistency
 5. awareness and transparency
 6. risk consideration
-7. 
