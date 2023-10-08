@@ -136,9 +136,16 @@ security
 #### finding and fixing data quality issues
 
 correct information in the original database
+	repairing original data source is necessary to resolve any data inaccuracies.
 
+scaling big data systems
+	database sharding
+	memory caching
+	moving to the cloud
+	separating read-only write-active databases 
 
-
+evaluating and selecting big data techniques
+	
 
 
 
