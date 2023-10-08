@@ -52,4 +52,5 @@ collecting data
 2. children's Online Privacy protection Act(COPPA) - US
 3. Genetic information nondiscrimination Act(GINA) -US
 	1. insurance companies, hospitals
-4.  
+4.  The Federal  Trade commission Act(FTC) -US
+5. The Data Protection Act 
