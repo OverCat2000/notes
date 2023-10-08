@@ -32,7 +32,12 @@ collecting data
 
 
 
+#### achieving data collection ethics
 
-
-procedures of ethical data collection
-	
+1. ethics training
+2. consensus
+3. clarity and understanding
+4. trust and consistency
+5. awareness and transparency
+6. risk consideration
+7. 
