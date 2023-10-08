@@ -3,7 +3,12 @@
 ### five principles of data ethics for business professionals
 
 1. ownership
+	- agreements
+	- pop ups in websites for cookies
+	- digital privacy policy
 2. transparency
-3. privacy
-4. intention
-5. outcomes
+	- data subjects right to know how we collect store data and what we plan to do 
+1. privacy
+	- 
+2. intention
+3. outcomes
