@@ -73,7 +73,12 @@ also the data masking algorithms should also be kept secure.
 
 #### fake data generation
 
-through cyber attacks data can be altered so that they end up on users dash board. its 
+through cyber attacks data can be altered so that they end up on users dash board. its a security risk if the organizations cannot identify fake or outdated data in their central repo. 
+ML models can be used to find anomalies in data. theses models also reduce fraud detection time.
+
+
+#### unauthorized changes in meta data
+
 
 
 
