@@ -145,9 +145,16 @@ scaling big data systems
 	separating read-only write-active databases 
 
 evaluating and selecting big data techniques
+	hadoop ecosystem
+	apache spark
+	noSQL db
+	R
+	predictive analysis
+	prespective analysis
+	big data enviroment
+
+real time insight
 	
-
-
 
 
 
