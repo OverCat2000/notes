@@ -40,3 +40,16 @@ collecting data
 4. trust and consistency
 5. awareness and transparency
 6. risk consideration
+
+### major data collection lawsuits
+
+1. US's immigration and customs enforcement authority unethically collected facial image data to track activities of immigrants - 2019
+2. brands that offer smart home devices have also been under scrutiny for unethically collecting voice biometric data - Alexa
+
+## regulations of data collection and protection
+
+1. Europe's General Data protection Regulation(GDPR)
+2. children's Online Privacy protection Act(COPPA) - US
+3. Genetic information nondiscrimination Act(GINA) -US
+	1. insurance companies, hospitals
+4.  
