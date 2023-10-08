@@ -154,7 +154,17 @@ evaluating and selecting big data techniques
 	big data enviroment
 
 real time insight
-	
+	performing analyses on a data system as the system collects data. allows more accurate decision making
+
+data validation
+	validating the Integrity, Accuracy and structure.
+
+healthcare challenges
+	electronics health records (EHR)
+	genomic sequencing
+	medical research
+	wearables
+	medical imaging
 
 
 

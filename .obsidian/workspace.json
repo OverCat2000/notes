@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Ethics/Big Data.md",
+                "file": "Data Ethics/data collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Ethics/Big Data.md",
+                "file": "Data Ethics/data collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Ethics/Big Data.md",
+                "file": "Data Ethics/data collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Ethics/Big Data.md"
+                "file": "Data Ethics/data collection.md"
               }
             }
           }
@@ -159,8 +159,9 @@
   },
   "active": "7eb069629485b144",
   "lastOpenFiles": [
-    "Data Ethics/Network perimeter insecurity.md",
     "Data Ethics/Big Data.md",
+    "Data Ethics/data collection.md",
+    "Data Ethics/Network perimeter insecurity.md",
     "Data Ethics/importance of data protection.md",
     "FrequencyDictionaries/freq_dicts_dirty/small_zh.txt",
     "FrequencyDictionaries/freq_dicts_dirty/small_uk.txt",
