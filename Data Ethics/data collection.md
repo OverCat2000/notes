@@ -15,6 +15,11 @@ are actions transparent and auditable
 2. right to transparency
 3. right to privacy
 
+#### ethical consideration in in data collection
+
+1. let them who u are
+2. ask them if they would like to participate
+3. 
 
 
 procedures of ethical data collection
