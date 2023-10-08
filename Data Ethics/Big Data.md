@@ -81,6 +81,12 @@ ML models can be used to find anomalies in data. theses models also reduce fraud
 
 implement user control
 obligatory authorization process for employees
+metadata sanitization 
+	author, corrections done on document, history
+
+#### employees' carelessness
+
+
 
 
 
