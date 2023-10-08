@@ -53,4 +53,8 @@ collecting data
 3. Genetic information nondiscrimination Act(GINA) -US
 	1. insurance companies, hospitals
 4.  The Federal  Trade commission Act(FTC) -US
-5. The Data Protection Act 
+5. The Data Protection Act 2018 -UK
+China's data governance Regulations
+	1. The Data security Law(DSL)
+	2. Personal Information protection Law(PIPL)
+	3. China's Cybersecurity law 2017
