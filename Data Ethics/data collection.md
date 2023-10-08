@@ -58,3 +58,14 @@ China's data governance Regulations
 	1. The Data security Law(DSL)
 	2. Personal Information protection Law(PIPL)
 	3. China's Cybersecurity law 2017
+
+### common ethical issues in data analysis and how to overcome them
+
+1. data quality and Accuracy
+2. data privacy and security
+3. data interpretation and persentation
+4. data ethics and value
+5. data feedback and improvement
+
+
+
