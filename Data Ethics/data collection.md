@@ -6,7 +6,16 @@ are actions transparent and auditable
 
 #### data privacy ethics business should consider
 1. consent based on information from people
-2. 
+2. maintaining anonymity and confidentiality
+3. clear communication with provides on data sharing
+
+#### top 3 three reasons to follow ethics in data collection
+
+1. protecting people's personal data
+2. right to transparency
+3. right to privacy
+
+
 
 procedures of ethical data collection
 	
