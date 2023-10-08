@@ -86,7 +86,11 @@ metadata sanitization
 
 #### employees' carelessness
 
+implementing multi-layer authentication
+threat detections approach
 
+
+### 
 
 
 
